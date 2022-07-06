@@ -2,7 +2,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JakaV5/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JakaV5/v17)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
